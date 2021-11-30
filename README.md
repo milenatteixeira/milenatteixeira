@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <center>
     <tr>
        <td>
-        <p><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=milenatteixeira&layout=compact&langs_count=20&hide_border=true&theme=yeblu" alt="Milena's github stats"/> </a></p>
+        <p><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=milenatteixeira&layout=compact&langs_count=20&hide_border=true&theme=yeblu&count_private=false" alt="Milena's github stats"/> </a></p>
       </td>
       </tr>
 </center>
